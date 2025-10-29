@@ -101,9 +101,8 @@ Date,Sales,Product
 2024-01-01,150.00,Product_A
 2024-01-01,89.99,Product_B
 
-##### Author
+## Author
 ###### Matthew Lawrence L
 ###### Bengaluru, Karnataka
-
 ###### lawrence82773824@gmail.com
 
