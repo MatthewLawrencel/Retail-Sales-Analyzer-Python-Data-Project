@@ -1,7 +1,7 @@
-#### Retail Sales Data Analysis
+# Retail Sales Data Analysis
 A comprehensive data engineering project analyzing retail sales data using Python, Pandas, and data visualization techniques.
 
-### Project Overview
+#### Project Overview
  - This project demonstrates how to:
 
  - Extract data from retail sales CSV files
@@ -12,7 +12,7 @@ A comprehensive data engineering project analyzing retail sales data using Pytho
 
  - Generate visual reports and Excel exports
 
-# Tech Stack
+#### Tech Stack
   - Python
 
   - pandas - Data analysis
@@ -21,11 +21,11 @@ A comprehensive data engineering project analyzing retail sales data using Pytho
 
   - xlsxwriter - Excel reports
 
-# Process
-# 1️⃣ Extract
+#### Process
+#### 1️⃣ Extract
       Reads sales data from retail_sales.csv file
 
-# 2️⃣ Transform
+#### 2️⃣ Transform
        Cleans and processes the data:
 
        -  Handles missing values
@@ -34,7 +34,7 @@ A comprehensive data engineering project analyzing retail sales data using Pytho
 
        -  Validates data quality
 
-# 3️⃣ Analyze
+#### 3️⃣ Analyze
        Performs sales analysis:
 
        - Product performance ranking
@@ -43,17 +43,17 @@ A comprehensive data engineering project analyzing retail sales data using Pytho
 
        - Daily sales metrics
 
-# 4️⃣ Report
+#### 4️⃣ Report
        - Generates Excel reports and visual charts
 
        - Run the Pipeline
-# bash
-# Install dependencies
+###### bash
+###### Install dependencies
 pip install pandas matplotlib xlsxwriter openpyxl
 
-# Run the analysis
+###### Run the analysis
 python retail_sale_analyzer.py
-# Example Output
+###### Example Output
 🚀 Retail Sale Analyzer Starting...
 
  Cleaned data: Removed 2 rows with missing values.
@@ -86,7 +86,7 @@ python retail_sale_analyzer.py
  Average Daily Sales: $1,250
 
 
-# Create retail_sales.csv with these columns:
+###### Create retail_sales.csv with these columns:
 
 Date (YYYY-MM-DD)
 
@@ -94,16 +94,16 @@ Sales (numeric)
 
 Product (text)
  
-# Example:
+###### Example:
 
 csv
 Date,Sales,Product
 2024-01-01,150.00,Product_A
 2024-01-01,89.99,Product_B
 
-# Author
-# Matthew Lawrence L
-# Bengaluru, Karnataka
+##### Author
+###### Matthew Lawrence L
+###### Bengaluru, Karnataka
 
-# lawrence82773824@gmail.com
+###### lawrence82773824@gmail.com
 
