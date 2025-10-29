@@ -54,7 +54,7 @@ pip install pandas matplotlib xlsxwriter openpyxl
 ###### Run the analysis
 python retail_sale_analyzer.py
 ###### Example Output
-🚀 Retail Sale Analyzer Starting...
+##### Retail Sale Analyzer Starting...
 
  Cleaned data: Removed 2 rows with missing values.
 
